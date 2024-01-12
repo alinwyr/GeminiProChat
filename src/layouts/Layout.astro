@@ -16,6 +16,16 @@ const { title } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/icon.svg">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
     <link rel="mask-icon" href="/icon.svg" color="#FFFFFF">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GMW0DCHGH3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GMW0DCHGH3');
+</script>
+ <!-- Google tag (gtag.js) end -->
     <meta name="theme-color" content="#212129">
     <meta name="generator" content={Astro.generator}>
     <title>{title}</title>
