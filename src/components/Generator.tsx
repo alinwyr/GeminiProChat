@@ -278,6 +278,8 @@ export default () => {
             <IconClear />
           </button>
         </div>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2728319026620292"
+     crossorigin="anonymous"></script>
       </Show>
       {/* <div class="fixed bottom-5 left-5 rounded-md hover:bg-slate/10 w-fit h-fit transition-colors active:scale-90" class:stick-btn-on={isStick()}>
         <div>
